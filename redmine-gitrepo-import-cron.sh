@@ -3,7 +3,7 @@
 ## redmine-gitrepo-import-cron.sh 
 # This script is called by a crontab to "git pull" all actives repositories setup in Redmine.
 ##
-# Author: David "Dinde" OH <david@ows.fr> - http://www.owns.fr
+# Author: David "Dinde" <kayser@euroserv.com>
 # Date: 04/11/2013: Release 1
 # Version: 1.0
 # Licence: WTFPLv2 (More informations on footer)
